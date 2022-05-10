@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and then C++ with UE5
 - 💞️ I’m looking to collaborate with map desiner, 3D modeller and maybe other programmer who like programming and gamedev in future.
 - 📫 How to reach me - pixtanegithub@gmail.com
-- 🎓 I have learnt python and made some simple games like "mines" on python and "snake" on Java. Also know HTML and CSS (CSS not good). Know and also learning English.
+- 🎓 I have learnt python and made some simple games like "mines" on python and "snake" on Java. Also know HTML and CSS (CSS not good). Know and also learning English. Current learning JavaFX and creating new project "Plot maker studio"
 - ⚙ I have Linux OS - Manjaro GNOME but before i had Manjaro KDE Plasma.
 
 <!---
